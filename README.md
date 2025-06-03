@@ -2,7 +2,7 @@
 
 A command-line Python application that simulates a basic model of the internet, allowing users to create servers, establish connections between them, and perform network diagnostic commands like `ping` and `traceroute`.
 
-## 📜 Description
+## Description
 
 This project provides a simplified, text-based environment to understand fundamental networking concepts. You can define a network topology by creating servers and specifying the "ping" time (latency) for connections between them. Once your network is set up, you can designate an active server and then test connectivity and routes to other servers in your model internet.
 
