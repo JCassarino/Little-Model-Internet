@@ -90,6 +90,6 @@ The script is organized into several key functions:
 * `parse_input()`: Handles user input and calls the appropriate functions.
 The main loop in `if __name__ == '__main__':` continuously prompts for user input until "quit" is entered.
 
-## 📝 Project Status
+## Project Status
 
 This is a completed project. No further updates are planned at this time.
