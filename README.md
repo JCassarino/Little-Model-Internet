@@ -1,4 +1,4 @@
-# Python Model Internet 🌐💻
+# Python Model Internet
 
 A command-line Python application that simulates a basic model of the internet, allowing users to create servers, establish connections between them, and perform network diagnostic commands like `ping` and `traceroute`.
 
@@ -6,7 +6,7 @@ A command-line Python application that simulates a basic model of the internet, 
 
 This project provides a simplified, text-based environment to understand fundamental networking concepts. You can define a network topology by creating servers and specifying the "ping" time (latency) for connections between them. Once your network is set up, you can designate an active server and then test connectivity and routes to other servers in your model internet.
 
-## ✨ Features
+## Features
 
 * **Server Creation:** Define servers with unique names and IP addresses.
 * **Connection Management:** Establish bi-directional connections between servers with specified ping times.
@@ -16,7 +16,7 @@ This project provides a simplified, text-based environment to understand fundame
 * **Network Configuration Display:** View details of the currently set server (`ip-config`) or all servers in the network (`display-servers`).
 * **Command-Line Interface:** Interact with the simulation through text-based commands.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -40,7 +40,7 @@ This project provides a simplified, text-based environment to understand fundame
 3.  **Interact:**
     * The application will present a `>>> ` prompt. Enter commands as described below.
 
-## 💻 Available Commands
+## Available Commands
 
 Enter commands at the `>>> ` prompt. Arguments should be space-separated.
 
@@ -76,7 +76,7 @@ Enter commands at the `>>> ` prompt. Arguments should be space-separated.
 * **`quit`**
     * Exits the application.
 
-## 🛠️ Code Overview
+## Code Overview
 
 The script is organized into several key functions:
 
